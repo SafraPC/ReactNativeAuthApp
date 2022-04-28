@@ -1,0 +1,14 @@
+com/testauthlib/BuildConfig.java
+ com.testauthlib.BuildConfig
+com/testauthlib/MainActivity.java
+ com.testauthlib.MainActivity
+com/testauthlib/ReactNativeFlipper.java
+ com.testauthlib.ReactNativeFlipper
+ com.testauthlib.ReactNativeFlipper$1
+ com.testauthlib.ReactNativeFlipper$2
+ com.testauthlib.ReactNativeFlipper$2$1
+com/testauthlib/MainApplication.java
+ com.testauthlib.MainApplication
+ com.testauthlib.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

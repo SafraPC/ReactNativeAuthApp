@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "test_auth_lib",
+    "slug": "test_auth_lib",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "test_auth_lib"
+}
